@@ -1,7 +1,7 @@
 package arrays;
 
 public class ArrayDemo {
-
+//comment
 	public static void main(String[] args) {
 		  
 		int a[] = new int[5];
